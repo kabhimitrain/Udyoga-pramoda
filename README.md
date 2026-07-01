@@ -240,19 +240,9 @@ Through this project I improved my understanding of:
 
 ---
 
-# ▶️ Running the Project
+# ## 🌐 Live Demo
 
-1. Clone the repository
-
-```bash
-https://github.com/kabhimitrain/Udyoga-pramoda
-```
-
-2. Open the project folder.
-
-3. Open `index.html` in your preferred web browser.
-
-No additional dependencies or installation are required.
+🔗 **Live Website:** https://clever-genie-98e788.netlify.app
 
 ---
 
